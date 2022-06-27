@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5bfa481-3390-4353-abea-c9800e776064" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1ieF2F6iR840RkhMzV1tn0hvQJX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\onlineshop\admin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5bfa481-3390-4353-abea-c9800e776064" name="Default Changelist" comment="" />
+      <created>1602259948394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602259948394</updated>
+      <workItem from="1602259951774" duration="256000" />
+      <workItem from="1602261506020" duration="11608000" />
+      <workItem from="1602293259419" duration="11281000" />
+      <workItem from="1602306262812" duration="12382000" />
+      <workItem from="1602346371823" duration="8773000" />
+      <workItem from="1602390547455" duration="13086000" />
+      <workItem from="1602429909787" duration="10347000" />
+      <workItem from="1602483062985" duration="1690000" />
+      <workItem from="1602496656210" duration="6678000" />
+      <workItem from="1602524333844" duration="1668000" />
+      <workItem from="1602561501077" duration="6437000" />
+      <workItem from="1602569431401" duration="7174000" />
+      <workItem from="1602669868726" duration="2565000" />
+      <workItem from="1602677996651" duration="5517000" />
+      <workItem from="1602699828942" duration="4366000" />
+      <workItem from="1602732692720" duration="1246000" />
+      <workItem from="1602738353456" duration="8621000" />
+      <workItem from="1602776624138" duration="2193000" />
+      <workItem from="1602848888408" duration="4373000" />
+      <workItem from="1602911424844" duration="14548000" />
+      <workItem from="1603132765732" duration="1714000" />
+      <workItem from="1603172228280" duration="4683000" />
+      <workItem from="1603286753032" duration="5307000" />
+      <workItem from="1603354498066" duration="1791000" />
+      <workItem from="1603517995701" duration="5395000" />
+      <workItem from="1603523550632" duration="1931000" />
+      <workItem from="1603598568964" duration="9529000" />
+      <workItem from="1603645277606" duration="4892000" />
+      <workItem from="1603685794121" duration="7811000" />
+      <workItem from="1603991286134" duration="1379000" />
+      <workItem from="1604981246697" duration="1666000" />
+      <workItem from="1605453833781" duration="1761000" />
+      <workItem from="1605710387977" duration="29000" />
+      <workItem from="1606396966295" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603354591909">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1603354591909" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603525391512">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603525391512" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1603523020483">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1603523020483" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1603519752361">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1603519752361" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602917276805">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602917276805" />
+  </component>
+</project>
